@@ -6,7 +6,7 @@ permalink: 'https://www.sciencedirect.com/science/article/pii/S016740482030136X?
 excerpt: ''
 date: 2020-09-01
 venue: 'Computers & Security'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://Ashraf-Tantawy.github.io/files/2020-Model_Based_Risk_Assessment.pdf'
 citation: 'Tantawy, Ashraf, et al. "Model-Based Risk Assessment for Cyber Physical Systems Security."'
 ---
 
