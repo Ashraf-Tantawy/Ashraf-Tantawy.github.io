@@ -23,18 +23,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Dr. Ashraf Tantawy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Lecturer | Researcher | Engineer | Building Resilient Cyber Physical Systems and Autonomous AI Agents"
   location         : "UK"
   employer         : "Cranfield University"
   uri              : # https://www.cranfield.ac.uk/people/dr-ashraf-tantawy-e3259L
-  email            : "none@example.org" 
+  email            : "ashraf.tantavy@cranfield.ac.uk" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "https://www.cranfield.ac.uk/people/dr-ashraf-tantawy-e3259"
+  arxiv            : "http://arxiv.org/a/tantawy_a_1"
   googlescholar    : "https://scholar.google.com/citations?user=sf-hTLoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
