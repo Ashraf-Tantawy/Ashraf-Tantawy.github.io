@@ -30,4 +30,4 @@ My research focuses on the development of design-time and runtime multi-agent sy
 
 ## Contact
 
-For research enquiries or potential collaborations, please contact me by email or through my academic profiles in the sidebar.-->
+For research enquiries or potential collaborations, please contact me by email or through my academic profiles in the sidebar.
