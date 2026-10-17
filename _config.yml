@@ -23,7 +23,7 @@ repository               : "Ashraf-Tantawy/Ashraf-Tantawy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://ashraf-tantawy.github.io/images/profile.png" # "images/profile.png"
+  avatar           : "profile.png"
   name             : "Dr. Ashraf Tantawy"
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer | Researcher | Engineer | Building Resilient Cyber Physical Systems and Autonomous AI Agents"
