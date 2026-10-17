@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+> **This website is under construction.** Some sections may be incomplete while I update the content.
+
 I am a Senior Lecturer at **Cranfield University**, where I work on resilient cyber-physical systems and autonomous AI agents.
 
 ## Research
