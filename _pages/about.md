@@ -9,11 +9,11 @@ redirect_from:
 
 > **This website is under construction.** Some sections may be incomplete while I update the content.
 
-I am a Senior Lecturer at **Cranfield University**, where I work on resilient cyber-physical systems and autonomous AI agents.
+I am a Senior Lecturer at **Cranfield University**, where I work on resilient AI-enabled autonomous cyber-physical systems.
 
 ## Research
 
-My research focuses on the security, resilience, and risk assessment of complex systems. I am particularly interested in how we can design and assess cyber-physical systems and autonomous agents so they remain dependable in the face of cyber threats and changing operating conditions.
+My research focuses on the development of design-time and runtime multi-agent systems for autonomous cyber physical systems. I am particularly interested in how we can design and assess cyber-physical systems and autonomous agents so they remain dependable in the face of cyber threats and changing operating conditions.
 
 ## Research interests
 
@@ -24,9 +24,9 @@ My research focuses on the security, resilience, and risk assessment of complex 
 
 ## Academic work
 
-I publish research in journals and conferences, and contribute to academic discussions through talks and collaboration. You can explore my [publications](/publications/) and [talks](/talks/).
+# I publish research in journals and conferences, and contribute to academic discussions through talks and collaboration. You can explore my [publications](/publications/) and [talks](/talks/).
 
-For my background and experience, see my [CV](/cv/).
+# For my background and experience, see my [CV](/cv/).
 
 ## Contact
 
