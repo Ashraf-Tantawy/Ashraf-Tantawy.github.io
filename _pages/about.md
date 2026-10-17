@@ -24,9 +24,9 @@ My research focuses on the development of design-time and runtime multi-agent sy
 
 ## Academic work
 
-<!-- I publish research in journals and conferences, and contribute to academic discussions through talks and collaboration. You can explore my [publications](/publications/) and [talks](/talks/).
+<!-- I publish research in journals and conferences, and contribute to academic discussions through talks and collaboration. You can explore my [publications](/publications/) and [talks](/talks/). -->
 
-# For my background and experience, see my [CV](/cv/).
+<!-- # For my background and experience, see my [CV](/cv/). -->
 
 ## Contact
 
